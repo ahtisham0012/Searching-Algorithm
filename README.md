@@ -104,5 +104,10 @@ Linear Search:
 
 ---
 
+## LinkdIn Post Link
+ [Check Here LinkdIn Post By Me](https://www.linkedin.com/posts/ahtisham-bajwa-867a49347_programming-algorithms-binarysearch-activity-7286447451199201281-wKXN?utm_source=share&utm_medium=member_android)
+
+---
+
 ## **Contributing**
 Feel free to fork this repository, make improvements, and submit pull requests. Feedback is highly appreciated!p
